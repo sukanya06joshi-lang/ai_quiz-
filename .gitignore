@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+quiz_results.db
+uploaded_notes/
+.streamlit/secrets.toml

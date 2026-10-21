@@ -1,0 +1,20 @@
+[
+  {
+    "Student": "SANDIP",
+    "Exam": "Practice Examination",
+    "Subject": "Python",
+    "Marks": 9,
+    "Total": 9,
+    "Percentage": 100.0,
+    "Date": "2026-10-21 11:26"
+  },
+  {
+    "Student": "NANDINI",
+    "Exam": "Practice Examination",
+    "Subject": "Python",
+    "Marks": 8,
+    "Total": 9,
+    "Percentage": 88.89,
+    "Date": "2026-10-21 11:30"
+  }
+]
